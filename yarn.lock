@@ -1625,7 +1625,7 @@ __metadata:
     shortid: ^2.2.16
     style-loader: ^0.23.1
     throttle-debounce: ^5.0.0
-    url-loader: 1.1.2
+    url-loader: 4.1.1
     webpack: 5.88.2
     webpack-bundle-size-analyzer: 3.1.0
     webpack-cli: 5.1.4
@@ -4876,7 +4876,7 @@ __metadata:
     redux-thunk: 2.4.2
     style-loader: ^0.23.1
     throttle-debounce: ^5.0.0
-    url-loader: 1.1.2
+    url-loader: 4.1.1
     webpack: 5.88.2
     webpack-bundle-size-analyzer: 3.1.0
     webpack-cli: 5.1.4
@@ -9497,7 +9497,7 @@ __metadata:
     react-dom: ^16.14.0
     react-hot-loader: 4.13.1
     style-loader: ^0.23.1
-    url-loader: 1.1.2
+    url-loader: 4.1.1
     webpack: 5.88.2
     webpack-bundle-size-analyzer: 3.1.0
     webpack-cli: 5.1.4
@@ -10883,7 +10883,7 @@ __metadata:
     source-map-loader: ^0.2.4
     style-loader: 0.23.1
     throttle-debounce: 5.0.0
-    url-loader: 1.1.2
+    url-loader: 4.1.1
     webpack: 5.88.2
     webpack-bundle-analyzer: ^4.9.0
     webpack-cli: 5.1.4
@@ -11000,7 +11000,7 @@ __metadata:
     react-dom: ^16.14.0
     react-hot-loader: 4.13.1
     style-loader: ^0.23.1
-    url-loader: 1.1.2
+    url-loader: 4.1.1
     webpack: 5.88.2
     webpack-bundle-size-analyzer: 3.1.0
     webpack-cli: 5.1.4
@@ -15215,7 +15215,7 @@ fsevents@^1.2.7:
     react-hot-loader: 4.13.1
     react-modal: 3.16.1
     style-loader: ^0.23.1
-    url-loader: 1.1.2
+    url-loader: 4.1.1
     webpack: 5.88.2
     webpack-bundle-size-analyzer: 3.1.0
     webpack-cli: 5.1.4
@@ -15986,7 +15986,7 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"mime@npm:^2.0.3, mime@npm:^2.3.1, mime@npm:^2.4.4":
+"mime@npm:^2.3.1, mime@npm:^2.4.4":
   version: 2.6.0
   resolution: "mime@npm:2.6.0"
   bin:
@@ -17859,7 +17859,7 @@ fsevents@^1.2.7:
     style-loader: ^0.23.1
     throttle-debounce: ^5.0.0
     uglifyjs-webpack-plugin: ^2.2.0
-    url-loader: 1.1.2
+    url-loader: 4.1.1
     url-parse: ^1.5.10
     webpack: 5.88.2
     webpack-bundle-size-analyzer: 3.1.0
@@ -19030,7 +19030,7 @@ fsevents@^1.2.7:
     redux-thunk: 2.4.2
     style-loader: ^0.23.1
     throttle-debounce: ^5.0.0
-    url-loader: 1.1.2
+    url-loader: 4.1.1
     webpack: 5.88.2
     webpack-cli: 5.1.4
     webpack-dev-server: 4.15.1
@@ -20947,7 +20947,7 @@ fsevents@^1.2.7:
     react-widgets: ^4.6.1
     style-loader: 0.23.1
     throttle-debounce: 5.0.0
-    url-loader: 1.1.2
+    url-loader: 4.1.1
     webpack: 5.88.2
     webpack-bundle-size-analyzer: 3.1.0
     webpack-cli: 5.1.4
@@ -21213,7 +21213,7 @@ fsevents@^1.2.7:
     redux-immutable-state-invariant: ^2.1.0
     redux-thunk: ^2.4.2
     style-loader: ^0.23.1
-    url-loader: 1.1.2
+    url-loader: 4.1.1
     webpack: 5.88.2
     webpack-bundle-size-analyzer: 3.1.0
     webpack-cli: 5.1.4
@@ -21359,7 +21359,7 @@ fsevents@^1.2.7:
     react-hot-loader: 4.13.1
     react-modal: 3.16.1
     style-loader: ^0.23.1
-    url-loader: 1.1.2
+    url-loader: 4.1.1
     webpack: 5.88.2
     webpack-bundle-size-analyzer: 3.1.0
     webpack-cli: 5.1.4
@@ -21465,7 +21465,7 @@ fsevents@^1.2.7:
     react-dom: ^16.14.0
     react-hot-loader: 4.13.1
     style-loader: ^0.23.1
-    url-loader: 1.1.2
+    url-loader: 4.1.1
     webpack: 5.88.2
     webpack-bundle-size-analyzer: 3.1.0
     webpack-cli: 5.1.4
@@ -21789,7 +21789,7 @@ fsevents@^1.2.7:
     style-loader: ^0.23.1
     svg-url-loader: ^7.1.1
     throttle-debounce: ^5.0.0
-    url-loader: 1.1.2
+    url-loader: 4.1.1
     utils: ^0.3.1
     webpack: 5.88.2
     webpack-bundle-size-analyzer: 3.1.0
@@ -21837,7 +21837,7 @@ fsevents@^1.2.7:
     redux-thunk: ^2.4.2
     source-map-loader: ^0.2.4
     style-loader: ^0.23.1
-    url-loader: 1.1.2
+    url-loader: 4.1.1
     webpack: 5.88.2
     webpack-bundle-size-analyzer: 3.1.0
     webpack-cli: 5.1.4
@@ -21873,7 +21873,7 @@ fsevents@^1.2.7:
     react-dom: ^16.14.0
     react-hot-loader: 4.13.1
     style-loader: ^0.23.1
-    url-loader: 1.1.2
+    url-loader: 4.1.1
     webpack: 5.88.2
     webpack-bundle-size-analyzer: 3.1.0
     webpack-cli: 5.1.4
@@ -22934,7 +22934,7 @@ fsevents@^1.2.7:
     react-hot-loader: 4.13.1
     react-modal: 3.16.1
     style-loader: ^0.23.1
-    url-loader: 1.1.2
+    url-loader: 4.1.1
     webpack: 5.88.2
     webpack-bundle-size-analyzer: 3.1.0
     webpack-cli: 5.1.4
@@ -22976,7 +22976,7 @@ fsevents@^1.2.7:
     react-dom: ^16.14.0
     react-hot-loader: 4.13.1
     style-loader: ^0.23.1
-    url-loader: 1.1.2
+    url-loader: 4.1.1
     webpack: 5.88.2
     webpack-bundle-size-analyzer: 3.1.0
     webpack-cli: 5.1.4
@@ -23213,7 +23213,7 @@ fsevents@^1.2.7:
     react-dom: ^16.14.0
     react-hot-loader: 4.13.1
     style-loader: ^0.23.1
-    url-loader: 1.1.2
+    url-loader: 4.1.1
     webpack: 5.88.2
     webpack-bundle-size-analyzer: 3.1.0
     webpack-cli: 5.1.4
@@ -24042,18 +24042,20 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"url-loader@npm:1.1.2":
-  version: 1.1.2
-  resolution: "url-loader@npm:1.1.2"
+"url-loader@npm:4.1.1":
+  version: 4.1.1
+  resolution: "url-loader@npm:4.1.1"
   dependencies:
-    loader-utils: ^1.1.0
-    mime: ^2.0.3
-    schema-utils: ^1.0.0
+    loader-utils: ^2.0.0
+    mime-types: ^2.1.27
+    schema-utils: ^3.0.0
   peerDependencies:
-    webpack: ^3.0.0 || ^4.0.0
-  bin:
-    url-loader: ""
-  checksum: 4bce3d5502863b208d5645df247c6f66c75050d32890970e11d33dbdad1d13218cefeef975f9fce98bd1c043314b182aea7e714c67a913755f9bf6af92965701
+    file-loader: "*"
+    webpack: ^4.0.0 || ^5.0.0
+  peerDependenciesMeta:
+    file-loader:
+      optional: true
+  checksum: c1122a992c6cff70a7e56dfc2b7474534d48eb40b2cc75467cde0c6972e7597faf8e43acb4f45f93c2473645dfd803bcbc20960b57544dd1e4c96e77f72ba6fd
   languageName: node
   linkType: hard
 
@@ -24180,7 +24182,7 @@ fsevents@^1.2.7:
     services: ^0.0.3
     style-loader: ^0.23.1
     throttle-debounce: ^5.0.0
-    url-loader: 1.1.2
+    url-loader: 4.1.1
     utils: ^0.3.1
     webpack: 5.88.2
     webpack-bundle-size-analyzer: 3.1.0
